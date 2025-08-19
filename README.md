@@ -14,6 +14,14 @@
 	- 損益 / キャッシュフロー / バランスシート グループをワンクリックで切替表示 (グラフは Plotly)
 5. 個別ステートメント可視化 (`financials2visualization.py`, `balancesheet2visualization.py` など)
 	- ドロップダウンで代表項目を切替
+例１
+<img width="1888" height="776" alt="image" src="https://github.com/user-attachments/assets/720095b6-5253-40b3-90cd-447d7e3d4072" />
+
+例２
+<img width="1873" height="788" alt="image" src="https://github.com/user-attachments/assets/50666e13-d04f-4e49-beaa-9a7a8a2ff15c" />
+
+例３
+<img width="1886" height="778" alt="image" src="https://github.com/user-attachments/assets/70079f9d-c3e5-4be2-bbbb-4066cea19055" />
 
 ## 依存ライブラリ
 
@@ -94,10 +102,12 @@ docs/captures/
 
 README から参照されるよう、将来追加する画像名は上記を推奨。画像を追加したら以下のように埋め込めます:
 
-```markdown
-![Analysis Portal Light](docs/captures/financial_analysis_portal_light.png)
-![Analysis Portal Dark](docs/captures/financial_analysis_portal_dark.png)
-```
+例１
+<img width="1844" height="820" alt="image" src="https://github.com/user-attachments/assets/f34c449a-f79e-411c-b553-2c10af928776" />
+例２
+<img width="1841" height="746" alt="image" src="https://github.com/user-attachments/assets/29ad178b-aff9-404b-bb13-b609233cb25c" />
+例３
+<img width="1849" height="820" alt="image" src="https://github.com/user-attachments/assets/99c3c902-47dc-4bc1-8a74-58b11c9ae7d2" />
 
 ## よくあるトラブルシュート
 
