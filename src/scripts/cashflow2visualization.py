@@ -115,11 +115,13 @@ def visualize_financials_csv(file_path):
 
 import sys
 
+
 def main():
 	if len(sys.argv) > 1:
-		file_path = sys.argv[1]
+		symbol = sys.argv[1]
 	else:
-		file_path = 'data/2267.T/cashflow.csv'
+		symbol = '2267.T'
+	file_path = f'data/{symbol}/cashflow.csv'
 	visualize_financials_csv(file_path)
 
 if __name__ == '__main__':
